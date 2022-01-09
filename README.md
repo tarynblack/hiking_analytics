@@ -17,7 +17,11 @@ To get a CSV of activity data from Strava, follow the Bulk Export instructions a
 After you have created or downloaded your hiking data file, set the appropriate `filesource` and `filename` parameters in the first cell of the notebook, and run the script.
 
 ## Output
-The notebook produces three plots:
+The notebook produces three plots, with examples shown below:
 1. Total annual miles hiked and elevation gain
 2. Annual average hiking statistics (distance, elevation gain, max elevation, steepness, fitness, speed)
 3. Statistics for individual hikes (steepness, fitness, speed), colored by year
+
+![Total annual miles hiked and elevation gain](https://github.com/tarynblack/hiking_analytics/blob/main/total_annual_distance_elevation.png)
+![Annual average hiking statistics](https://github.com/tarynblack/hiking_analytics/blob/main/average_annual_stats.png)
+![Individual hike statistics](https://github.com/tarynblack/hiking_analytics/blob/main/individual_hike_stats.png)

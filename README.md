@@ -24,8 +24,8 @@ The notebook produces five plots, with examples shown below:
 4. Annual distributions of hiking statistics
 5. Statistics for individual hikes (steepness, fitness, speed), colored by year
 
-![Total annual miles hiked and elevation gain](https://github.com/tarynblack/hiking_analytics/blob/main/total_annual_distance_elevation.png)
-![Cumulative annual miles hiked and elevation gain](https://github.com/tarynblack/hiking_analystics/blob/main/cumulative_annual_distance_elevation.png)
-![Annual average/median hiking statistics](https://github.com/tarynblack/hiking_analytics/blob/main/annual_stats.png)
-![Annual distributions of hiking statistics](https://github.com/tarynblack/hiking_analytics/blob/main/stats_distribution.png)
-![Individual hike statistics](https://github.com/tarynblack/hiking_analytics/blob/main/individual_hike_stats.png)
+![Total annual miles hiked and elevation gain](total_annual_distance_elevation.png)
+![Cumulative annual miles hiked and elevation gain](cumulative_annual_distance_elevation.png)
+![Annual average/median hiking statistics](annual_stats.png)
+![Annual distributions of hiking statistics](stats_distribution.png)
+![Individual hike statistics](individual_hike_stats.png)
